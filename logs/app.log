@@ -1,0 +1,406 @@
+2025-11-21 14:26:06,017 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-21 14:26:06,020 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-21 14:26:06,020 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-21 14:26:06,453 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-21 14:26:06,454 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-21 14:26:06,454 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-21 14:26:24,297 - LaptopPricePredictor - INFO - Shutting down Laptop Price Predictor API
+2025-11-21 14:26:24,297 - LaptopPricePredictor - INFO - Cleanup completed successfully
+2025-11-21 16:53:41,271 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-21 16:53:41,273 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-21 16:53:41,273 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-21 16:53:41,825 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-21 16:53:41,825 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-21 16:53:41,825 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-21 16:54:00,573 - LaptopPricePredictor - INFO - Shutting down Laptop Price Predictor API
+2025-11-21 16:54:00,573 - LaptopPricePredictor - INFO - Cleanup completed successfully
+2025-11-21 19:11:27,960 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-21 19:11:27,962 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-21 19:11:27,962 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-21 19:11:28,567 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-21 19:11:28,567 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-21 19:11:28,567 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-21 19:12:40,644 - LaptopPricePredictor - INFO - Shutting down Laptop Price Predictor API
+2025-11-21 19:12:40,644 - LaptopPricePredictor - INFO - Cleanup completed successfully
+2025-11-21 19:12:41,568 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-21 19:12:41,570 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-21 19:12:41,571 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-21 19:12:42,000 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-21 19:12:42,000 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-21 19:12:42,000 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-21 19:13:04,577 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-21 19:13:04,579 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-21 19:13:04,579 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-21 19:13:04,991 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-21 19:13:04,991 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-21 19:13:04,991 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-21 19:13:09,605 - LaptopPricePredictor - INFO - Shutting down Laptop Price Predictor API
+2025-11-21 19:13:09,605 - LaptopPricePredictor - INFO - Cleanup completed successfully
+2025-11-21 19:14:30,547 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-21 19:14:30,550 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-21 19:14:30,574 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-21 19:14:31,037 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-21 19:14:31,037 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-21 19:14:31,037 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-21 19:16:40,852 - LaptopPricePredictor - INFO - Making prediction for features: {'company': <Company.DELL: 'Dell'>, 'type_name': <TypeName.NOTEBOOK: 'Notebook'>, 'ram': 8, 'weight': 2.0, 'touchscreen': 0, 'ips': 1, 'ppi': 141.21, 'cpu_brand': <CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>, 'hdd': 0, 'ssd': 524, 'gpu_brand': <GpuBrand.INTEL: 'Intel'>, 'os': <OS.WINDOWS: 'Windows'>}
+2025-11-21 19:16:40,853 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-21 19:16:40,853 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-21 19:16:40,855 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-21 19:16:40,861 - LaptopPricePredictor - ERROR - Prediction error: Found unknown categories [<CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>] in column 2 during transform
+Traceback (most recent call last):
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/laptop_price_predictor/models/prediction_model.py", line 86, in predict
+    raw_prediction = await loop.run_in_executor(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/pipeline.py", line 602, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py", line 295, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer.py", line 1014, in transform
+    Xs = self._call_func_on_transformers(
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer.py", line 823, in _call_func_on_transformers
+    return Parallel(n_jobs=self.n_jobs)(jobs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py", line 67, in __call__
+    return super().__call__(iterable_with_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+                                                ^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py", line 129, in __call__
+    return self.function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/pipeline.py", line 1283, in _transform_one
+    res = transformer.transform(X, **params.transform)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py", line 295, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py", line 1023, in transform
+    X_int, X_mask = self._transform(
+                    ^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py", line 213, in _transform
+    raise ValueError(msg)
+ValueError: Found unknown categories [<CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>] in column 2 during transform
+2025-11-21 19:17:08,736 - LaptopPricePredictor - INFO - Making prediction for features: {'company': <Company.DELL: 'Dell'>, 'type_name': <TypeName.NOTEBOOK: 'Notebook'>, 'ram': 8, 'weight': 2.0, 'touchscreen': 0, 'ips': 1, 'ppi': 141.21, 'cpu_brand': <CpuBrand.INTEL_CORE_I7: 'Intel Core i7'>, 'hdd': 0, 'ssd': 524, 'gpu_brand': <GpuBrand.INTEL: 'Intel'>, 'os': <OS.WINDOWS: 'Windows'>}
+2025-11-21 19:17:08,738 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-21 19:17:08,738 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-21 19:17:08,740 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-21 19:17:08,789 - LaptopPricePredictor - INFO - MongoDB connection established successfully
+2025-11-21 19:17:08,792 - LaptopPricePredictor - INFO - Prediction saved with ID: f32de687-5236-41bf-a390-02d30af6b9ac
+2025-11-21 19:17:47,599 - LaptopPricePredictor - INFO - Making prediction for features: {'company': <Company.DELL: 'Dell'>, 'type_name': <TypeName.NOTEBOOK: 'Notebook'>, 'ram': 8, 'weight': 2.0, 'touchscreen': 0, 'ips': 1, 'ppi': 141.21, 'cpu_brand': <CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>, 'hdd': 0, 'ssd': 524, 'gpu_brand': <GpuBrand.INTEL: 'Intel'>, 'os': <OS.WINDOWS: 'Windows'>}
+2025-11-21 19:17:47,600 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-21 19:17:47,600 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-21 19:17:47,601 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-21 19:17:47,604 - LaptopPricePredictor - ERROR - Prediction error: Found unknown categories [<CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>] in column 2 during transform
+Traceback (most recent call last):
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/laptop_price_predictor/models/prediction_model.py", line 86, in predict
+    raw_prediction = await loop.run_in_executor(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/pipeline.py", line 602, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py", line 295, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer.py", line 1014, in transform
+    Xs = self._call_func_on_transformers(
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer.py", line 823, in _call_func_on_transformers
+    return Parallel(n_jobs=self.n_jobs)(jobs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py", line 67, in __call__
+    return super().__call__(iterable_with_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+                                                ^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py", line 129, in __call__
+    return self.function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/pipeline.py", line 1283, in _transform_one
+    res = transformer.transform(X, **params.transform)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py", line 295, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py", line 1023, in transform
+    X_int, X_mask = self._transform(
+                    ^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py", line 213, in _transform
+    raise ValueError(msg)
+ValueError: Found unknown categories [<CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>] in column 2 during transform
+2025-11-21 19:18:52,304 - LaptopPricePredictor - INFO - Shutting down Laptop Price Predictor API
+2025-11-21 19:18:52,304 - LaptopPricePredictor - INFO - Cleanup completed successfully
+2025-11-22 19:05:41,232 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-22 19:05:41,235 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-22 19:05:41,235 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-22 19:05:41,812 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-22 19:05:41,812 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-22 19:05:41,812 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-22 19:06:31,521 - LaptopPricePredictor - INFO - Making prediction for features: {'company': <Company.DELL: 'Dell'>, 'type_name': <TypeName.NOTEBOOK: 'Notebook'>, 'ram': 8, 'weight': 2.0, 'touchscreen': 0, 'ips': 1, 'ppi': 141.21, 'cpu_brand': <CpuBrand.AMD_PROCESSOR: 'AMD Processor'>, 'hdd': 0, 'ssd': 256, 'gpu_brand': <GpuBrand.INTEL: 'Intel'>, 'os': <OS.WINDOWS: 'Windows'>}
+2025-11-22 19:06:31,522 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-22 19:06:31,522 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-22 19:06:31,524 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-22 19:06:31,543 - LaptopPricePredictor - INFO - MongoDB connection established successfully
+2025-11-22 19:06:31,545 - LaptopPricePredictor - INFO - Prediction saved with ID: 311fa2a1-ace2-4f4e-b633-7be807e33f25
+2025-11-22 19:06:57,118 - LaptopPricePredictor - INFO - Making prediction for features: {'company': <Company.DELL: 'Dell'>, 'type_name': <TypeName.NOTEBOOK: 'Notebook'>, 'ram': 8, 'weight': 2.0, 'touchscreen': 0, 'ips': 1, 'ppi': 141.21, 'cpu_brand': <CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>, 'hdd': 0, 'ssd': 256, 'gpu_brand': <GpuBrand.INTEL: 'Intel'>, 'os': <OS.WINDOWS: 'Windows'>}
+2025-11-22 19:06:57,118 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-22 19:06:57,118 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-22 19:06:57,121 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-22 19:06:57,124 - LaptopPricePredictor - ERROR - Prediction error: Found unknown categories [<CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>] in column 2 during transform
+Traceback (most recent call last):
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/laptop_price_predictor/models/prediction_model.py", line 86, in predict
+    raw_prediction = await loop.run_in_executor(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/pipeline.py", line 602, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py", line 295, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer.py", line 1014, in transform
+    Xs = self._call_func_on_transformers(
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer.py", line 823, in _call_func_on_transformers
+    return Parallel(n_jobs=self.n_jobs)(jobs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py", line 67, in __call__
+    return super().__call__(iterable_with_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+                                                ^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py", line 129, in __call__
+    return self.function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/pipeline.py", line 1283, in _transform_one
+    res = transformer.transform(X, **params.transform)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py", line 295, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py", line 1023, in transform
+    X_int, X_mask = self._transform(
+                    ^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py", line 213, in _transform
+    raise ValueError(msg)
+ValueError: Found unknown categories [<CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>] in column 2 during transform
+2025-11-22 19:07:28,192 - LaptopPricePredictor - INFO - Making prediction for features: {'company': <Company.ACER: 'Acer'>, 'type_name': <TypeName.NOTEBOOK: 'Notebook'>, 'ram': 8, 'weight': 2.0, 'touchscreen': 0, 'ips': 1, 'ppi': 141.21, 'cpu_brand': <CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>, 'hdd': 0, 'ssd': 256, 'gpu_brand': <GpuBrand.INTEL: 'Intel'>, 'os': <OS.WINDOWS: 'Windows'>}
+2025-11-22 19:07:28,192 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-22 19:07:28,192 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-22 19:07:28,194 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-22 19:07:28,196 - LaptopPricePredictor - ERROR - Prediction error: Found unknown categories [<CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>] in column 2 during transform
+Traceback (most recent call last):
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/laptop_price_predictor/models/prediction_model.py", line 86, in predict
+    raw_prediction = await loop.run_in_executor(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/pipeline.py", line 602, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py", line 295, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer.py", line 1014, in transform
+    Xs = self._call_func_on_transformers(
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer.py", line 823, in _call_func_on_transformers
+    return Parallel(n_jobs=self.n_jobs)(jobs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py", line 67, in __call__
+    return super().__call__(iterable_with_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+                                                ^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py", line 129, in __call__
+    return self.function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/pipeline.py", line 1283, in _transform_one
+    res = transformer.transform(X, **params.transform)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py", line 295, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py", line 1023, in transform
+    X_int, X_mask = self._transform(
+                    ^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py", line 213, in _transform
+    raise ValueError(msg)
+ValueError: Found unknown categories [<CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>] in column 2 during transform
+2025-11-22 19:07:29,596 - LaptopPricePredictor - INFO - Making prediction for features: {'company': <Company.ACER: 'Acer'>, 'type_name': <TypeName.NOTEBOOK: 'Notebook'>, 'ram': 8, 'weight': 2.0, 'touchscreen': 0, 'ips': 1, 'ppi': 141.21, 'cpu_brand': <CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>, 'hdd': 0, 'ssd': 256, 'gpu_brand': <GpuBrand.INTEL: 'Intel'>, 'os': <OS.WINDOWS: 'Windows'>}
+2025-11-22 19:07:29,596 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-22 19:07:29,596 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-22 19:07:29,598 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-22 19:07:29,602 - LaptopPricePredictor - ERROR - Prediction error: Found unknown categories [<CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>] in column 2 during transform
+Traceback (most recent call last):
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/laptop_price_predictor/models/prediction_model.py", line 86, in predict
+    raw_prediction = await loop.run_in_executor(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/pipeline.py", line 602, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py", line 295, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer.py", line 1014, in transform
+    Xs = self._call_func_on_transformers(
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer.py", line 823, in _call_func_on_transformers
+    return Parallel(n_jobs=self.n_jobs)(jobs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py", line 67, in __call__
+    return super().__call__(iterable_with_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+                                                ^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py", line 129, in __call__
+    return self.function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/pipeline.py", line 1283, in _transform_one
+    res = transformer.transform(X, **params.transform)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py", line 295, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py", line 1023, in transform
+    X_int, X_mask = self._transform(
+                    ^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py", line 213, in _transform
+    raise ValueError(msg)
+ValueError: Found unknown categories [<CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>] in column 2 during transform
+2025-11-22 19:08:33,177 - LaptopPricePredictor - INFO - Shutting down Laptop Price Predictor API
+2025-11-22 19:08:33,177 - LaptopPricePredictor - INFO - Cleanup completed successfully
+2025-11-22 19:09:15,320 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-22 19:09:15,322 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-22 19:09:15,322 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-22 19:09:15,804 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-22 19:09:15,804 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-22 19:09:15,804 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-22 19:09:26,186 - LaptopPricePredictor - INFO - Making prediction for features: {'company': <Company.ACER: 'Acer'>, 'type_name': <TypeName.NOTEBOOK: 'Notebook'>, 'ram': 8, 'weight': 2.0, 'touchscreen': 0, 'ips': 1, 'ppi': 141.21, 'cpu_brand': <CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>, 'hdd': 0, 'ssd': 256, 'gpu_brand': <GpuBrand.INTEL: 'Intel'>, 'os': <OS.WINDOWS: 'Windows'>}
+2025-11-22 19:09:26,187 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-22 19:09:26,187 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-22 19:09:26,189 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-22 19:09:26,192 - LaptopPricePredictor - ERROR - Prediction error: Found unknown categories [<CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>] in column 2 during transform
+Traceback (most recent call last):
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/laptop_price_predictor/models/prediction_model.py", line 86, in predict
+    raw_prediction = await loop.run_in_executor(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/pipeline.py", line 602, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py", line 295, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer.py", line 1014, in transform
+    Xs = self._call_func_on_transformers(
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer.py", line 823, in _call_func_on_transformers
+    return Parallel(n_jobs=self.n_jobs)(jobs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py", line 67, in __call__
+    return super().__call__(iterable_with_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+                                                ^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py", line 129, in __call__
+    return self.function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/pipeline.py", line 1283, in _transform_one
+    res = transformer.transform(X, **params.transform)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py", line 295, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py", line 1023, in transform
+    X_int, X_mask = self._transform(
+                    ^^^^^^^^^^^^^^^^
+  File "/home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py", line 213, in _transform
+    raise ValueError(msg)
+ValueError: Found unknown categories [<CpuBrand.INTEL_CORE_I9: 'Intel Core i9'>] in column 2 during transform
+2025-11-22 19:12:09,272 - LaptopPricePredictor - INFO - Shutting down Laptop Price Predictor API
+2025-11-22 19:12:09,276 - LaptopPricePredictor - INFO - Cleanup completed successfully
+2025-11-22 19:12:10,384 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-22 19:12:10,386 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-22 19:12:10,387 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-22 19:12:10,948 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-22 19:12:10,948 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-22 19:12:10,948 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-22 19:12:20,773 - LaptopPricePredictor - INFO - Shutting down Laptop Price Predictor API
+2025-11-22 19:12:20,773 - LaptopPricePredictor - INFO - Cleanup completed successfully
+2025-11-22 19:12:30,008 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-22 19:12:30,010 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-22 19:12:30,010 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-22 19:12:30,411 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-22 19:12:30,411 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-22 19:12:30,411 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-22 19:14:33,256 - LaptopPricePredictor - INFO - Shutting down Laptop Price Predictor API
+2025-11-22 19:14:33,256 - LaptopPricePredictor - INFO - Cleanup completed successfully
+2025-11-22 20:05:44,728 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-22 20:05:44,728 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-22 20:05:44,728 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-22 20:05:45,198 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-22 20:05:45,198 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-22 20:05:45,198 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-22 20:07:32,387 - LaptopPricePredictor - INFO - Shutting down Laptop Price Predictor API
+2025-11-22 20:07:32,387 - LaptopPricePredictor - INFO - Cleanup completed successfully
+2025-11-22 20:56:10,625 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-22 20:56:10,625 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-22 20:56:10,625 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-22 20:56:11,154 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-22 20:56:11,154 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-22 20:56:11,154 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-22 20:57:02,161 - LaptopPricePredictor - INFO - Making prediction for features: {'company': <Company.DELL: 'Dell'>, 'type_name': <TypeName.NOTEBOOK: 'Notebook'>, 'ram': 8, 'weight': 2.0, 'touchscreen': 0, 'ips': 1, 'ppi': 141.21, 'cpu_brand': <CpuBrand.INTEL_CORE_I5: 'Intel Core i5'>, 'hdd': 0, 'ssd': 256, 'gpu_brand': <GpuBrand.INTEL: 'Intel'>, 'os': <OS.WINDOWS: 'Windows'>}
+2025-11-22 20:57:02,211 - LaptopPricePredictor - INFO - MongoDB connection established successfully
+2025-11-22 20:57:02,216 - LaptopPricePredictor - INFO - Prediction saved with ID: f941cf4e-3023-4cef-94da-7774f37e84ce
+2025-11-22 21:00:07,571 - LaptopPricePredictor - INFO - Shutting down Laptop Price Predictor API
+2025-11-22 21:00:07,571 - LaptopPricePredictor - INFO - Cleanup completed successfully
+2025-11-22 21:27:54,669 - LaptopPricePredictor - INFO - Starting Laptop Price Predictor API
+2025-11-22 21:27:54,669 - LaptopPricePredictor - INFO - Loading model from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/linear_regression.pkl
+2025-11-22 21:27:54,669 - LaptopPricePredictor - INFO - Loading data from: /home/nirmal/Documents/LAPTOP_PRICE_PREDICTOR/ml_model/df.pkl
+2025-11-22 21:27:55,242 - LaptopPricePredictor - INFO - Model and data loaded successfully
+2025-11-22 21:27:55,242 - LaptopPricePredictor - INFO - Prediction service initialized
+2025-11-22 21:27:55,242 - LaptopPricePredictor - INFO - All services initialized successfully
+2025-11-22 21:29:44,028 - LaptopPricePredictor - INFO - MongoDB connection established successfully
+2025-11-22 21:32:10,130 - LaptopPricePredictor - INFO - Shutting down Laptop Price Predictor API
+2025-11-22 21:32:10,131 - LaptopPricePredictor - INFO - Cleanup completed successfully
